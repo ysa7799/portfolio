@@ -1,0 +1,5 @@
+issue_id,date_found,dataset,column,issue_type,description,severity,status,fix_applied,fixed_by,date_resolved
+1,2026-01-05,customer_export,email,duplicate,"3,204 duplicate emails found across 50k rows",high,resolved,"deduped keeping most recent record",Y. Hakeem,2026-01-06
+2,2026-01-05,customer_export,signup_date,inconsistent_format,"mixed MM/DD/YYYY and DD-MM-YYYY formats",medium,resolved,"standardized to ISO 8601",Y. Hakeem,2026-01-06
+3,2026-01-06,sales_daily,revenue,outlier,"12 rows with revenue >10x category average",medium,open,,,
+4,2026-01-06,sales_daily,region,inconsistent_label,"'UAE' vs 'U.A.E.' vs 'United Arab Emirates'",low,open,,,
