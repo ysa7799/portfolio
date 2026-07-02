@@ -22,3 +22,6 @@ sqlite3 retail_sales.db < queries.sql
 
 ## Skills demonstrated
 Multi-table JOINs, GROUP BY aggregation, CTEs, window functions (RANK, LAG), seasonality analysis, translating query output into business recommendations.
+
+## Presentation
+`Retail_Sales_SQL_Analysis.pptx` — a 6-slide walkthrough of the dataset, SQL techniques, and key findings.

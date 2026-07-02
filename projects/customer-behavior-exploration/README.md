@@ -25,3 +25,6 @@ Tenure and spend show a weak positive correlation (r ≈ 0.08) — tenure alone 
 
 ## Skills demonstrated
 Missing-value strategy (impute vs. drop), outlier handling (cap vs. remove), correlation analysis, channel-level aggregation, translating stats into a plain-English memo for non-technical stakeholders.
+
+## Presentation
+`Customer_Behavior_Exploration.pptx` — a 6-slide walkthrough of the dataset, cleaning approach, and key findings.

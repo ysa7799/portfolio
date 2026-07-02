@@ -21,3 +21,6 @@ Output: `data/operations_kpi_dashboard.xlsx`
 
 ## Skills demonstrated
 PivotTable-equivalent aggregation in pandas, KPI definition, native Excel chart generation (openpyxl), stakeholder-ready insight summarization.
+
+## Presentation
+`Operations_KPI_Dashboard.pptx` — a 6-slide walkthrough of the dataset, methodology, and key findings.

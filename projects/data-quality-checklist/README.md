@@ -11,3 +11,6 @@ Most data quality problems aren't algorithmically hard to catch — they're miss
 
 ## Skills demonstrated
 Data validation methodology, documentation discipline, issue tracking and severity triage — the same discipline behind auditable incident logging, applied to data pipelines.
+
+## Presentation
+`Data_Quality_Checklist.pptx` — a 5-slide walkthrough of the framework, validation categories, and issue-tracking workflow.
