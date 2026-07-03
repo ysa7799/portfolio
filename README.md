@@ -2,7 +2,7 @@
 
 Static single-page portfolio site. No build step, no framework — plain HTML/CSS.
 
-Live: https://portfolio-blush-pi-96.vercel.app
+Live: https://yusufhakeem.app
 
 ## Structure
 - `index.html` — all page content
